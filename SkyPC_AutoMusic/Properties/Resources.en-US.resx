@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Main_Play" xml:space="preserve">
+    <value>𝗣𝗟𝗔𝗬</value>
+  </data>
+  <data name="Main_Settings" xml:space="preserve">
+    <value>──── ✦ 𝗢𝗣𝗧𝗜𝗢𝗡𝗦  ✦ ────</value>
+  </data>
+  <data name="Main_Sheets" xml:space="preserve">
+    <value>𝗦𝗛𝗘𝗘𝗧𝗦</value>
+  </data>
+  <data name="Main_WindowTitle" xml:space="preserve">
+    <value>Sky Auto Music</value>
+  </data>
+  <data name="Play_Mode1" xml:space="preserve">
+    <value>Loop Off</value>
+  </data>
+  <data name="Play_Btn_PreviousMusic" xml:space="preserve">
+    <value>Previous Music</value>
+  </data>
+  <data name="Play_Btn_NextMusic" xml:space="preserve">
+    <value>Next Music</value>
+  </data>
+  <data name="Play_Mode2" xml:space="preserve">
+    <value>Loop Song</value>
+  </data>
+  <data name="Play_Mode3" xml:space="preserve">
+    <value>Play Queue</value>
+  </data>
+  <data name="Play_Pause" xml:space="preserve">
+    <value>Pause</value>
+  </data>
+  <data name="Play_Start" xml:space="preserve">
+    <value>Play</value>
+  </data>
+  <data name="Play_AlreadyFirstMusic" xml:space="preserve">
+    <value>It's already the first music</value>
+  </data>
+  <data name="Play_AlreadyLastMusic" xml:space="preserve">
+    <value>It's already the last music</value>
+  </data>
+  <data name="Play_MissSheet" xml:space="preserve">
+    <value>You need to add a music sheet</value>
+  </data>
+  <data name="Play_Info_Header" xml:space="preserve">
+    <value>Sheet Music Infomation</value>
+  </data>
+  <data name="List_Btn_Add" xml:space="preserve">
+    <value>Add Sheet Music File</value>
+  </data>
+  <data name="List_Btn_Delete" xml:space="preserve">
+    <value>Delete The Chosen Sheet Music</value>
+  </data>
+  <data name="List_Btn_ImportFolder" xml:space="preserve">
+    <value>Import Files From Folder</value>
+  </data>
+  <data name="List_Header_SheetsList" xml:space="preserve">
+    <value>Sheets List </value>
+  </data>
+  <data name="Play_Info_Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="Play_Info_Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="Play_Info_TranscribedBy" xml:space="preserve">
+    <value>Transcribed By</value>
+  </data>
+  <data name="Play_Info_PitchLevel" xml:space="preserve">
+    <value>Pitch Level</value>
+  </data>
+  <data name="List_ImportWindowTitle" xml:space="preserve">
+    <value>Please Choose A Sheet Music File</value>
+  </data>
+  <data name="List_TextFile" xml:space="preserve">
+    <value>Text File</value>
+  </data>
+  <data name="List_ImportSuccessfully" xml:space="preserve">
+    <value>Imported Successfully</value>
+  </data>
+  <data name="List_ImportFailure" xml:space="preserve">
+    <value>Failed to import file</value>
+  </data>
+  <data name="List_NullDelete" xml:space="preserve">
+    <value>Choose a sheet music to delete</value>
+  </data>
+  <data name="List_ImportingFiles" xml:space="preserve">
+    <value>Importing Files, Please Wait...</value>
+  </data>
+  <data name="List_ImportResult" xml:space="preserve">
+    <value>{0} Files Imported Successfully, Failed To Import {1} Files</value>
+  </data>
+  <data name="List_ImportingInBackground" xml:space="preserve">
+    <value>Importing {0} Files</value>
+  </data>
+  <data name="List_ImportFailureList" xml:space="preserve">
+    <value>Failed To Import Files Below:</value>
+  </data>
+  <data name="List_ImportFailureTips" xml:space="preserve">
+    <value>Can't import sheet music that is encrypted</value>
+  </data>
+  <data name="Options_Header_Appearance" xml:space="preserve">
+    <value>Appearance</value>
+  </data>
+  <data name="Options_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Options_DarkMode" xml:space="preserve">
+    <value>Dark Mode</value>
+  </data>
+  <data name="Options_ThemeColorFollowSystem" xml:space="preserve">
+    <value>Sync System Color</value>
+  </data>
+  <data name="Options_CustomBackground" xml:space="preserve">
+    <value>Custom Background Image</value>
+  </data>
+  <data name="Options_CombineKeys" xml:space="preserve">
+    <value>Combine Continuous Key</value>
+  </data>
+  <data name="Options_KeyMapper" xml:space="preserve">
+    <value>Sky Studio Key Mode</value>
+  </data>
+  <data name="Options_Header_About" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="Options_GitHub" xml:space="preserve">
+    <value>GitHub</value>
+  </data>
+  <data name="Options_Confirm" xml:space="preserve">
+    <value>𝗖𝗢𝗡𝗙𝗜𝗥𝗠</value>
+  </data>
+  <data name="Options_Tips_RestartApp" xml:space="preserve">
+    <value>Restart Application To Apply Options</value>
+  </data>
+  <data name="Options_Tips_MissBackgroundFile" xml:space="preserve">
+    <value>No background picture found, please put bg.jpg (or bg.png) in the same directory as the program</value>
+  </data>
+  <data name="Options_Tips_CombineKeys" xml:space="preserve">
+    <value>This feature is not applicable to all music, it is recommended not to use it unless necessary</value>
+  </data>
+  <data name="Options_ReadConfigFailure" xml:space="preserve">
+    <value>Failed to read settings file, all options have been reset to default values</value>
+  </data>
+  <data name="UnhandledException" xml:space="preserve">
+    <value>The Application ran into a problem and has been terminated. Please contact the program developer to report this problem</value>
+  </data>
+  <data name="Options_ReadPathFailure" xml:space="preserve">
+    <value>Failed to read path from settings file</value>
+  </data>
+  <data name="List_Btn_Search" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="List_FilterTips" xml:space="preserve">
+    <value>Song Name</value>
+  </data>
+</root>
